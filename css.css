@@ -1,0 +1,31 @@
+div{
+    height: 60px;
+   background-color: black ;
+   border-color: rgba(255, 255, 255, 0.507);
+   text-align: left;
+   color: rgb(156, 104, 6);
+   column-gap: 200px;
+}
+#logo{
+    color: rgb(138, 92, 6);
+    font-size: 25px;
+}
+    a{
+        color: white;
+        size: 2px;
+        margin-right: 200px;
+    }
+    button{
+        color: white;
+        background-color: rgb(164, 108, 4);
+
+    }
+
+body{
+    background-color:white;
+}
+#heading1{
+    color: white;
+    height: 2px;
+    width: 5px;
+}
